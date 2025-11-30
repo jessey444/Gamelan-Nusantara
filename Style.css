@@ -1,7 +1,7 @@
         :root {
-            --primary: #8B4513;
-            --secondary: #D2691E;
-            --accent: #CD853F;
+            --primary: #621818;
+            --secondary: #983409;
+            --accent: #c0762c;
             --light: #F5F5DC;
             --dark: #3E2723;
             --text: #333333;
@@ -429,3 +429,4 @@
                 right: auto !important;
             }
         }
+
