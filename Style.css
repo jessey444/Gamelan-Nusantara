@@ -36,7 +36,7 @@
         header {
             background-color: var(--primary);
             color: var(--white);
-            padding: 1rem 0;
+            padding: 8px 0;
             position: sticky;
             top: 0;
             z-index: 100;
@@ -429,4 +429,3 @@
                 right: auto !important;
             }
         }
-
